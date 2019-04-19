@@ -401,3 +401,9 @@ footer{
 .button:hover {
     background-color: #555;
 }
+
+#logo{
+    float: left;
+    width: 10%;
+    margin-left: 45%;
+}
