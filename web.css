@@ -363,6 +363,10 @@ footer{
         width: 100%;
         display: block;
     }
+	body{
+		width: 100%;
+		display: block;
+	}
 }
 
 /* Add some shadows to create a card effect */
