@@ -1,16 +1,19 @@
 .imag{
-	    display: inline-block;
-margin-left: 10%;
-		margin-right: 10%;
-		width: 33%;
-	margin-top: 0px;
-	height:350px;
-	background-repeat: cover;
 
+element.style {
+}
+
+.imag {
+display: inline-block;
+/* margin-left: 10%; */
+/* margin-right: 10%; */
+width: 31%;
+/* margin-top: 0px; */
+height: 350px;
+background-repeat: cover;
 background-size: cover;
-
-    padding: 10px;
-    overflow: hidden;
+padding: 0.8%;
+overflow: hidden;
 
 }
 
