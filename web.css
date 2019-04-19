@@ -29,14 +29,14 @@ background-size: cover;
 }
 #Summary{
 	margin-left: 40%;
-	color: White;
+	color: Black;
 	margin-top: 4%;
 	font-size: 40px;
 	font-family: 'Aclonica';
 }
 #key{
 	margin-left: 40%;
-	color: White;
+	color: Black;
 	margin-top: 4%;
 	font-size: 40px;
 	font-family: 'Aclonica';
@@ -52,7 +52,7 @@ background-size: cover;
 margin-left: 40%;
 
 padding: 20px;
-	color: White;
+	color: Black;
 	margin-top: 4%;
 	font-size: 40px;
 	font-family: 'Aclonica';
@@ -71,7 +71,7 @@ background-color: black
 .para{
 		margin-left: 10%;
 		margin-right: 10%;
-	color: White;
+	color: Black;
 	margin-top: 4%;
 	font-size: 25px;
 	font-family: 'Aclonica';
@@ -317,7 +317,7 @@ background-size: cover;
 	opacity: 0.77;
 }
 .pica2{
-	background-image: url("space.gif");
+	background-image: url("https://tenor.com/view/shooting-star-gif-10152547");
 
 }
 .pica{
