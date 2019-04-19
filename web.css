@@ -53,7 +53,7 @@ background-size: cover;
 margin-left: 40%;
 
 padding: 20px;
-	color: White;
+	color: Black;
 	margin-top: 4%;
 	font-size: 40px;
 	font-family: 'Aclonica';
@@ -127,7 +127,6 @@ h1{
 	font-family: helvetica, sans-serif;
 	color: grey;
 	list-style-type:none;
-	margin-left: 55px ;
 font-size: 20px;
 background-color: #292a33;
 	padding:20px;
@@ -317,7 +316,7 @@ background-size: cover;
 	opacity: 0.77;
 }
 .pica2{
-	background-image: url("https://tenor.com/view/shooting-star-gif-10152547");
+	background-image: url("space.gif");
 
 }
 .pica{
