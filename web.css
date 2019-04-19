@@ -250,7 +250,7 @@ background-size: cover;
 	}
 
 .abc2{
-background-image: url("space.gif");
+background-image: url("desert.gif");
 }
 
 	.rest1:hover
@@ -317,7 +317,7 @@ background-size: cover;
 	opacity: 0.77;
 }
 .pica2{
-	background-image: url("desert.gif");
+	background-image: url("space.gif");
 
 }
 .pica{
