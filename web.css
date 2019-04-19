@@ -255,7 +255,7 @@ background-size: cover;
 	}
 
 .abc2{
-background-image: url("desert.gif");
+background-image: url("water.gif");
 }
 
 	.rest1:hover
@@ -305,7 +305,7 @@ margin-bottom: 3px;
 	margin-top: 3px;
 }
 .pic2{
-	background-image: url("water.jpg");
+	background-image: url("desert.jpg");
 
 }
 .pic{
@@ -355,7 +355,7 @@ footer{
     float: left;
     width: 24%;
     margin-bottom: 16px;
-    padding: 0 8px;
+    padding: 0.5%;
 }
 
 /* Display the columns below each other instead of side by side on small screens */
