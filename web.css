@@ -254,7 +254,7 @@ background-size: cover;
 	}
 
 .abc2{
-background-image: url("water.jpg");
+background-image: url("desert.gif");
 }
 
 	.rest1:hover
@@ -304,7 +304,7 @@ margin-bottom: 3px;
 	margin-top: 3px;
 }
 .pic2{
-	background-image: url("desert.gif");
+	background-image: url("water.jpg");
 
 }
 .pic{
