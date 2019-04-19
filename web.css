@@ -29,7 +29,7 @@ background-size: cover;
 
 }
 #Summary{
-	margin-left: 40%;
+	text-align: center;
 	color: Black;
 	margin-top: 4%;
 	font-size: 40px;
@@ -50,25 +50,16 @@ background-size: cover;
 	font-family: 'Aclonica';
 }
 #Trailer{
-margin-left: 40%;
 
-padding: 20px;
-	color: Black;
-	margin-top: 4%;
-	font-size: 40px;
-	font-family: 'Aclonica';
-background-color: black
-}
-#Gamestruc{
-margin-left: 40%;
-
-padding: 20px;
+  text-align: center;
+  padding: 20px;
 	color: White;
 	margin-top: 4%;
 	font-size: 40px;
 	font-family: 'Aclonica';
 background-color: black
 }
+
 .para{
 		margin-left: 10%;
 		margin-right: 10%;
@@ -124,6 +115,7 @@ h1{
 
 }
 .ul1 {
+	text-align: center;
 	font-family: helvetica, sans-serif;
 	color: grey;
 	list-style-type:none;
